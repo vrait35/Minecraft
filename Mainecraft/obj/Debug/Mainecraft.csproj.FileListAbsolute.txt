@@ -1,0 +1,7 @@
+C:\Users\темирбулата\source\repos\Mainecraft\Mainecraft\bin\Debug\Mainecraft.exe.config
+C:\Users\темирбулата\source\repos\Mainecraft\Mainecraft\bin\Debug\Mainecraft.exe
+C:\Users\темирбулата\source\repos\Mainecraft\Mainecraft\bin\Debug\Mainecraft.pdb
+C:\Users\темирбулата\source\repos\Mainecraft\Mainecraft\obj\Debug\Mainecraft.csprojAssemblyReference.cache
+C:\Users\темирбулата\source\repos\Mainecraft\Mainecraft\obj\Debug\Mainecraft.csproj.CoreCompileInputs.cache
+C:\Users\темирбулата\source\repos\Mainecraft\Mainecraft\obj\Debug\Mainecraft.exe
+C:\Users\темирбулата\source\repos\Mainecraft\Mainecraft\obj\Debug\Mainecraft.pdb
